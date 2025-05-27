@@ -1,0 +1,12 @@
+pandas
+numpy
+keras
+torchvision
+opencv-python
+kornia
+matplotlib
+tensorboardX
+Pillow
+scikit-image
+scikit-learn
+imageio

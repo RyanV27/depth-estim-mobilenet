@@ -1,0 +1,13 @@
+# Folders and files to ignore
+.ipynb_checkpoints
+__pycache__/
+checkpoints/*
+data/*
+runs/*
+test_vid/*.mp4
+test_vid/depth_frames/*
+test_vid/frames/*
+Densenet_depth_model
+test_img.ipynb
+train_mobilenetv2.ipynb
+validation_results.txt
