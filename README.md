@@ -44,6 +44,10 @@ To enhance depth prediction accuracy, I experimented with a composite loss funct
 └── README.md         # Project overview
 ```
 
+## Downloading the Dataset
+- [Subset of NYU Depth V2 dataset (used for training)](https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2)
+- [Entire NYU Depth V2 dataset (to get validation data)](https://huggingface.co/datasets/sayakpaul/nyu_depth_v2)
+
 ## Training
 ```bash
 python train.py --checkpath ./checkpoints/ --run $run_num --epoch $epoch_num
